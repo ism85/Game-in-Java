@@ -1,3 +1,6 @@
+/* It doesn't work, because I wanted, that the user enter any number from 1 to 18, e.g. he entered 3 will be (ka) printed out. 
+I have no experience in Java but I just wrote the code based on logic. */
+
 public class KidsCountingGame{
 
  
